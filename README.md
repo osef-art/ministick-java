@@ -1,5 +1,6 @@
 # ministick. ![alt text](data/img/main/face0.png "Figure 1")
-[//]: <> (![alt text](data/img/main/shrug.png "he doesn't know either.")
+
+![alt text](data/img/main/ministick-clip-1.gif ":D")
 
 An addictive, infinite and super-fast beat-them all. Let's see how far you can go ! 
 
@@ -37,6 +38,8 @@ An addictive, infinite and super-fast beat-them all. Let's see how far you can g
 `P` : **pause** the game  
 `A` : **exit** the game
 
+![alt text](data/img/main/ministick-clip-3.gif ">:D")
+
 ---
 
 ## BONUS ⏹️
@@ -61,3 +64,5 @@ An addictive, infinite and super-fast beat-them all. Let's see how far you can g
 - **Don't spam**. Making the same move **three times in a row** cancels the combo.
 
 - Move on **platforms** so enemies struggle to follow you !
+
+![alt text](data/img/main/ministick-clip-2.gif "21 Combo !")

@@ -1,5 +1,6 @@
 # ministick. ![alt text](data/img/main/face0.png "Figure 1")
-[//]: <> (![alt text](data/img/main/shrug.png "he doesn't know either."))
+
+![alt text](data/img/main/shrug.png "he doesn't know either.")
 
 An addictive, infinite and super-fast beat-them all. Let's see how far you can go ! 
 

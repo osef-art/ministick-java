@@ -15,7 +15,7 @@ installed to play the game.
 #### LINUX
 - Execute `./launch.sh`
 
-...or place yourself at the source directory,
+...or place yourself in the root directory,
 open a terminal and launch the command:
 ```bash
 java -jar ministick.jar

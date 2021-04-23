@@ -6,7 +6,7 @@ An addictive, infinite and super-fast beat-them all.
 Let's see how far you can go ! 
 
 ## LAUNCH THE GAME 🎮
-You must have [**Java 8**](https://www.java.com/fr/download/manual.jsp) 
+You must have [**Java 13**](https://download.oracle.com/otn/java/jdk/13.0.2+8/d4173c853231432d94f001e99d882ca7/jdk-13.0.2_windows-x64_bin.exe) 
 installed to play the game.
 
 #### WINDOWS
@@ -62,24 +62,27 @@ java -jar ministick.jar
 ## BONUS ⏹️
 | Name | | Power |  
 |---:|:---:|:---|   
-| BOMB     | ![alt text](data/img/bonus/bomb0.png "Bomb")         | Inflicts 25 damage to every enemy on the stage
-| HEALTH   | ![alt text](data/img/bonus/health0.png "Health")     | Heals 10 HP
-| KICK     | ![alt text](data/img/bonus/kick0.png "Kick")         | Boosts kick damage. Also grants a speed boost
-| PUNCH    | ![alt text](data/img/bonus/punch0.png "Punch")       | Boosts punch damage
-| SHURIKEN | ![alt text](data/img/bonus/shuriken0.png "Shuriken") | Gives 5 shurikens
-| SHIELD   | ![alt text](data/img/bonus/shield0.png "Shield")     | Grants invincibility during a few seconds
-| FREEZE   | ![alt text](data/img/bonus/freeze0.png "Freeze")     | The stage becomes 2 times slower during a few seconds
-| SIDEKICK | ![alt text](data/img/bonus/sidekick0.png "Sidekick") | Summons a sidekick who will fight enemies with you
-| ???    | ? | (Coming soon !)
+| BOMB     | ![alt text](data/img/bonus/bomb0.png "Bomb")         | Inflicts 25 damage to **every enemy** on the stage
+| HEALTH   | ![alt text](data/img/bonus/health0.png "Health")     | **Heals** 10 HP
+| KICK     | ![alt text](data/img/bonus/kick0.png "Kick")         | Boosts **kick** damage. Also grants a speed boost
+| PUNCH    | ![alt text](data/img/bonus/punch0.png "Punch")       | Boosts **punch** damage
+| SHURIKEN | ![alt text](data/img/bonus/shuriken0.png "Shuriken") | Gives 5 throwable **shurikens**
+| SHIELD   | ![alt text](data/img/bonus/shield0.png "Shield")     | Grants **invincibility** during a few seconds
+| FREEZE   | ![alt text](data/img/bonus/freeze0.png "Freeze")     | The stage becomes **twice as low** during a few seconds
+| SIDEKICK | ![alt text](data/img/bonus/sidekick0.png "Sidekick") | Summons a **sidekick** who will fight enemies with you
+| *???* | ? | *(Coming soon !)*
 
 ### TIPS 💡
 
-- Try to evaluate the **direction** and **distance** of each attack to make smart attack sequences. Some are especially designed !
+- Try to evaluate the **direction** and **distance** of each attack to make **smart attack sequences**. 
+  Some moves are **specifically designed** to work with each other !
 
 - Displaying the hitboxes may help to understand the **range** of some moves. 
 
-- **Don't spam**. Making the same move **three times in a row** cancels the combo.
+- ***Avoid spamming***. Making the same move **three times in a row** cancels the combo.
 
-- Move on **platforms** so enemies struggle to follow you !
+- Jump on **platforms** so enemies struggle to follow you !
+
+- Don't forget to **parry** to avoid being stun for too long and take **too many hits** in a row.
 
 ![alt text](data/img/main/ministick-clip-2.gif "21 Combo !")

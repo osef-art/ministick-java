@@ -2,7 +2,24 @@
 
 ![alt text](data/img/main/ministick-clip-1.gif ":D")
 
-An addictive, infinite and super-fast beat-them all. Let's see how far you can go ! 
+An addictive, infinite and super-fast beat-them all. 
+Let's see how far you can go ! 
+
+## LAUNCH THE GAME 🎮
+You must have [**Java 8**](https://www.java.com/fr/download/manual.jsp) 
+installed to play the game.
+
+#### WINDOWS
+- Click on `launch.bat`
+
+#### LINUX
+- Execute `./launch.sh`
+
+...or place yourself at the source directory,
+open a terminal and launch the command:
+```bash
+java -jar ministick.jar
+```
 
 ## HOW TO PLAY 🕹
 

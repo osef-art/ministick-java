@@ -24,21 +24,21 @@ java -jar ministick.jar
 ## HOW TO PLAY 🕹
 
 #### 🏃 Move
-`⬅`, `Q` : **walk** left  
-`➡`, `D` : **walk** right  
-`⬆`, `Z` : **jump**  
-`⬇`, `S` : **squat**
+`⬅` / `Q` : **walk** left  
+`➡` / `D` : **walk** right  
+`⬆` / `Z` : **jump**  
+`⬇` / `S` : **squat**
 
 `⬅` + `⬅` : **dash** left  
 `➡` + `➡` : **dash** right  
 `⬇` + `⬇` : **drop** from platform  
-`SHIFT` + `⬅`,`⬆`,`➡`,`⬇` : **camera** mode
+`SHIFT` + `⬅` / `⬆` / `➡` / `⬇` : **camera** mode
 
 
 #### 💥 Attack
 
-`C`, `L` : **punch** (or **throw** item)  
-`V`, `M` : **kick**  
+`C` / `L` : **punch** (or **throw** item)  
+`V` / `M` : **kick**  
 `F` : **parry**  
 
 `⬆` + `kick` : **airkick**  

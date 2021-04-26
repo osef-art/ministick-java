@@ -37,7 +37,7 @@ java -jar ministick.jar
 
 #### 💥 Attack
 
-`C` / `L` : **punch** (or **throw** item)  
+`C` / `L` : **punch** (or **throw** weapon)  
 `V` / `M` : **kick**  
 `F` : **parry**  
 

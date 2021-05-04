@@ -6,7 +6,7 @@ An addictive, infinite and super-fast beat-them all.
 Let's see how far you can go ! 
 
 ## LAUNCH THE GAME 🎮
-You must have [**Java 13**](https://download.oracle.com/otn/java/jdk/13.0.2+8/d4173c853231432d94f001e99d882ca7/jdk-13.0.2_windows-x64_bin.exe) 
+You must have [**Java 13**](https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html) 
 installed to play the game.
 
 #### WINDOWS

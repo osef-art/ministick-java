@@ -6,7 +6,8 @@ An addictive, infinite and super-fast beat-them all.
 Let's see how far you can go ! 
 
 ## LAUNCH THE GAME 🎮
-You must have [**Java 13**](https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html) 
+
+You must have [**Java 13** or +](https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html) 
 installed to play the game.
 
 #### WINDOWS
@@ -37,7 +38,7 @@ java -jar ministick.jar
 
 #### 💥 Attack
 
-`C` / `L` : **punch** (or **throw** item)  
+`C` / `L` : **punch** (or **throw** weapon)  
 `V` / `M` : **kick**  
 `F` : **parry**  
 
